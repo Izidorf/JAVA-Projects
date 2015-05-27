@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<airport>
+    <name>Fakeville International Airport</name>
+    <code>FIA</code>
+    <runways>
+        <runway>
+            <lowestEquivalentDesignator>
+                <side>LEFT</side>
+                <angle>1</angle>
+            </lowestEquivalentDesignator>
+            <stripWidth>69.0</stripWidth>
+            <distCleared>75.0</distCleared>
+            <distGraded>150.0</distGraded>
+            <highDirectionalProperties>
+                <displacedThreshold>0.0</displacedThreshold>
+                <TORA>3000.0</TORA>
+                <ASDA>3300.0</ASDA>
+                <LDA>3000.0</LDA>
+                <TODA>3000.0</TODA>
+                <RESA>240.0</RESA>
+                <stripEnd>60.0</stripEnd>
+            </highDirectionalProperties>
+            <lowDirectionalProperties>
+                <displacedThreshold>500.0</displacedThreshold>
+                <TORA>3000.0</TORA>
+                <ASDA>3200.0</ASDA>
+                <LDA>2500.0</LDA>
+                <TODA>3000.0</TODA>
+                <RESA>240.0</RESA>
+                <stripEnd>60.0</stripEnd>
+            </lowDirectionalProperties>
+        </runway>
+    </runways>
+</airport>

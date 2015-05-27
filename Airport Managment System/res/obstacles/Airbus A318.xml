@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<obstacle>
+    <height>12.51</height>
+    <displacementFromLowTreshold>2550.0</displacementFromLowTreshold>
+    <displacementFromHighTreshold>1146.0</displacementFromHighTreshold>
+    <displacementFromCenterline>5.0</displacementFromCenterline>
+</obstacle>
