@@ -1,0 +1,8 @@
+There are 5 registered within the system. 
+ Their names are: 
+ admin Izidor : no items won 
+ Flajsman izi : no items won 
+ rok Rok : no items won 
+ Katarina Zbontar : no items won 
+ Izidor Flajsman : no items won 
+
