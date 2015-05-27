@@ -1,4 +1,6 @@
-Airport Management System ——
+Airport Management System
+=============
+
 Group project with:
 Izidor Flajsman
 Samuel Holder
